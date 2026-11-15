@@ -1,1 +1,2 @@
 hey, i am ingesting the data for our project.
+ingest bash data
